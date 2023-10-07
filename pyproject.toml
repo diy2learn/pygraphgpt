@@ -1,7 +1,8 @@
 [tool.poetry]
 name = "pygraphgpt"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
+readme = "README.md"
     authors = ["An Truong <antruong.bq@gmail.com>"]
 packages = [
     { include = "pygraphgpt", from = "src" }
